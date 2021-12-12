@@ -17,3 +17,24 @@ Second part of our project will be focussed on improving upon our baseline, both
 
 
 ![QGNET](https://user-images.githubusercontent.com/54315149/145692491-bfade8b4-8f5f-42d9-a135-6a82753d4bfe.png)
+
+## Directory Structure
+
+.
+├── code  
+│   ├── LSTM+Attention.ipynb  
+│   └── QGNET.ipynb  
+├── dataset  
+│   ├── dev-v2.0.json  
+│   └── train-v2.0.json  
+├── explain  
+│   ├── lstm.png  
+│   └── QGNET.png  
+├── README.md  
+├── reports  
+│   ├── Advanced_NLP_Report.pdf  
+│   └── NLP_Proposal.pdf  
+└── requirements.txt  
+  
+4 directories, 10 files  
+
